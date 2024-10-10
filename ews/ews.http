@@ -1,0 +1,6 @@
+@ews_HostAddress = http://localhost:5082
+
+GET {{ews_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
